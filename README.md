@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate data analyst with a strong background in computer science, eagerly awaiting my final semester results. I hold a BSc in Computer Science and have hands-on experience in data visualization and analysis.
+I'm a passionate data analyst with a strong background in computer science. I hold a BSc in Computer Science and have hands-on experience in data visualization and analysis.
 
 - 🌱 I’m currently learning: Basic Python
 - 👯 I’m looking to collaborate on: Data analysis and visualization projects
