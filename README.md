@@ -20,15 +20,15 @@ I'm a passionate data analyst with a strong background in computer science. I ho
 
 ## 📈 Projects
 
-### [E-commerce Data Analysis]()
+### [E-commerce Data Analysis](https://github.com/suf1an-ss/E-commerce-Data-Analysis-)
 - Analyzed e-commerce data using PostgreSQL and Tableau.
 - Provided insights into customer behavior and sales trends.
 
-### [Contoso Sales Report]()
+### [Contoso Sales Report](https://github.com/suf1an-ss/Sales-Report-using-Power-BI)
 - Analyzed sales data from Contoso using Power BI
 - Created a comprehensive dashboard to visualize sales performance
 
-### [Academic Excellence Tracker]()
+### [Academic Excellence Tracker](https://github.com/suf1an-ss/My-Academic-Excellence-Tracker)
 - Developed an Excel-based tracker to monitor academic performance
 - Visualized key metrics to highlight areas of improvement
 
